@@ -1,0 +1,65 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+logs/
+
+# Maven target directory
+target/
+
+# Gradle build directory
+build/
+
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.ipr
+
+# VS Code specific files
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Application-specific files
+*.env
+*.properties
+*.yml
+*.yaml
+
+# Spring Boot specific files
+spring.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# Java-specific files
+*.jar
+*.war
+*.ear
+
+# Node-specific files (if using Node.js for frontend)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Generated files
+generated/
+
+# Database files
+*.db
+*.sqlite
+
+# Debug files
+hs_err_pid*
